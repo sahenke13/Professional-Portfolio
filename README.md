@@ -1,2 +1,2 @@
-# Professional-Portfolio
-This is my portfolio in progress
+# Basic-Portfolio
+This is my attemp at basic portfolio.
