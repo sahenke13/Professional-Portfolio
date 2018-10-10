@@ -147,21 +147,26 @@ body {
     margin: 40px 0px 100px 0px;
     background: #fff;
     border: 1px solid #ddd;
+    
   }
   
+  #contactDiv{
+    text-align: center;
+
+  }
   /* portfolio page */
   
   .work {
     position: relative;
     float: left;
     width: 274px;
-    margin: 20px 0 25px;
+    margin: 30px 10px 0px 10px;
     overflow: auto;
   }
   
-  .work:nth-child(even) {
+  /* .work:nth-child(even) {
     margin-right: 40px;
-  }
+  } */
   
   .work img {
     width: 100%;
@@ -205,36 +210,8 @@ body {
   #contact-form li {
     margin-bottom: 10px;
   }
-  
-  label,
-  input[type=text],
-  input[type=email],
-  textarea {
-    display: block;
-    width: 100%;
-  }
-  
-  input[type=text],
-  input[type=email],
-  textarea {
-    height: 35px;
-    padding: 0 10px;
-    font-size: 14px;
-    border: 1px solid #ddd;
-  }
-  
-  textarea {
-    height: 200px;
-  }
-  
-  input[type=submit] {
-    padding: 10px 30px;
-    font-size: 18px;
-    color: #fff;
-    cursor: pointer;
-    background: #0099cc;
-    border: 0 none;
-  }
+
+
 
   /* media queries */
 
