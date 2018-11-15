@@ -173,6 +173,9 @@ body {
     border: 0 none;
     opacity: 0.8;
   }
+  #indexImg {
+    image-orientation: 90deg;
+}
   
   .work h3 {
     position: absolute;
