@@ -174,7 +174,9 @@ body {
     opacity: 0.8;
   }
   #indexImg {
-    image-orientation: 90deg;
+    transform: rotate(90deg);
+    height: 80px;
+    width: auto;
 }
   
   .work h3 {
